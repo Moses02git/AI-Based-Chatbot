@@ -10,3 +10,4 @@ Features:
 -Real-Time Responses: Instantaneous replies for an engaging user experience.
 -File Upload Capability: Users can upload files for analysis or context-based questions.
 -Customizable: Easily modify the chatbot's responses and behavior to suit specific needs.
+
