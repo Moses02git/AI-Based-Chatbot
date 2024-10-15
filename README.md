@@ -1,4 +1,4 @@
-# AI-Based-Chatbot using Streamlit
+# AI-Powered-Chatbot using Streamlit
 Gpt-4o AI-Based-Chatbot- using Streamlit
 
 Description:
